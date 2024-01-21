@@ -1,0 +1,14 @@
+@article{Nedelin:2016gwu,
+    author = "Nedelin, Anton and Nieri, Fabrizio and Zabzine, Maxim",
+    title = "{$q$-Virasoro modular double and 3d partition functions}",
+    eprint = "1605.07029",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "UUITP-10-16",
+    doi = "10.1007/s00220-017-2882-1",
+    journal = "Commun. Math. Phys.",
+    volume = "353",
+    number = "3",
+    pages = "1059--1102",
+    year = "2017"
+}

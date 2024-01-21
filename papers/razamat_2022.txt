@@ -1,0 +1,13 @@
+@article{Nazzal:2021tiu,
+    author = "Nazzal, Belal and Nedelin, Anton and Razamat, Shlomo S.",
+    title = "{Minimal $(D,D)$ conformal matter and generalizations of the van Diejen model}",
+    eprint = "2106.08335",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    doi = "10.21468/SciPostPhys.12.4.140",
+    journal = "SciPost Phys.",
+    volume = "12",
+    number = "4",
+    pages = "140",
+    year = "2022"
+}

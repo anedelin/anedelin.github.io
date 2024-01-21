@@ -1,0 +1,13 @@
+@article{Minahan:2013jwa,
+    author = "Minahan, Joseph A. and Nedelin, Anton and Zabzine, Maxim",
+    title = "{5D super Yang-Mills theory and the correspondence to AdS$_7$/CFT$_6$}",
+    eprint = "1304.1016",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    doi = "10.1088/1751-8113/46/35/355401",
+    journal = "J. Phys. A",
+    volume = "46",
+    pages = "355401",
+    year = "2013"
+}
+

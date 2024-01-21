@@ -1,0 +1,12 @@
+@article{Hosseini:2016cyf,
+    author = "Hosseini, Seyed Morteza and Nedelin, Anton and Zaffaroni, Alberto",
+    title = "{The Cardy limit of the topologically twisted index and black strings in AdS$_{5}$}",
+    eprint = "1611.09374",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    doi = "10.1007/JHEP04(2017)014",
+    journal = "JHEP",
+    volume = "04",
+    pages = "014",
+    year = "2017"
+}

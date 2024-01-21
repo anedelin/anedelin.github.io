@@ -1,0 +1,12 @@
+@article{Bobev:2019bvq,
+    author = "Bobev, Nikolay and Bomans, Pieter and Gautason, Fri\dh{}rik Freyr and Minahan, Joseph A. and Nedelin, Anton",
+    title = "{Supersymmetric Yang-Mills, Spherical Branes, and Precision Holography}",
+    eprint = "1910.08555",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    doi = "10.1007/JHEP03(2020)047",
+    journal = "JHEP",
+    volume = "03",
+    pages = "047",
+    year = "2020"
+}

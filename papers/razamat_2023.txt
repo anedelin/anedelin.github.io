@@ -1,0 +1,12 @@
+@article{Nazzal:2023wtw,
+    author = "Nazzal, Belal and Nedelin, Anton and Razamat, Shlomo S.",
+    title = "{Ground state wavefunctions of elliptic relativistic integrable Hamiltonians}",
+    eprint = "2305.09718",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    doi = "10.1016/j.nuclphysb.2023.116364",
+    journal = "Nucl. Phys. B",
+    volume = "996",
+    pages = "116364",
+    year = "2023"
+}

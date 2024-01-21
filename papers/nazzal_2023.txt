@@ -1,0 +1,13 @@
+@article{Nazzal:2023bzu,
+    author = "Nazzal, Belal and Nedelin, Anton",
+    title = "{$C_2$ generalization of the van Diejen model from the minimal $(D_5,D_5)$ conformal matter}",
+    eprint = "2303.07368",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    doi = "10.1007/s11005-023-01714-7",
+    journal = "Lett. Math. Phys.",
+    volume = "113",
+    number = "5",
+    pages = "94",
+    year = "2023"
+}

@@ -1,0 +1,12 @@
+@article{Lanir:2019abx,
+    author = "Lanir, Assaf and Nedelin, Anton and Sela, Orr",
+    title = "{Black hole entropy function for toric theories via Bethe Ansatz}",
+    eprint = "1908.01737",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    doi = "10.1007/JHEP04(2020)091",
+    journal = "JHEP",
+    volume = "04",
+    pages = "091",
+    year = "2020"
+}

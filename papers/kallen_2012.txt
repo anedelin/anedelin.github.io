@@ -1,0 +1,13 @@
+@article{Kallen:2012zn,
+    author = "Kallen, J. and Minahan, J. A. and Nedelin, A. and Zabzine, M.",
+    title = "{$N^3$-behavior from 5D Yang-Mills theory}",
+    eprint = "1207.3763",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "UUITP-21-12",
+    doi = "10.1007/JHEP10(2012)184",
+    journal = "JHEP",
+    volume = "10",
+    pages = "184",
+    year = "2012"
+}

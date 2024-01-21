@@ -1,0 +1,164 @@
+/* code by webdevtrick ( https://webdevtrick.com ) */
+
+
+
+
+.container{ 
+/*  background-color: gray; */
+/* color: #7f8c97;*/
+  max-width: 1224px;
+	height: 100%;
+	text-align: center;
+	margin: 0 auto;
+	padding: 2em;
+	position: relative;
+}
+ 
+.main-title{
+	color: white;
+	font-weight: 300;
+	font-size: 2.5em;
+	margin-bottom: .3em;
+/*        font-family: "Dosis";*/
+}
+ 
+ .timeline {
+	  position: relative;
+	  width: auto;
+	  margin: 0 auto;
+	  margin-top: 5em;
+   padding-bottom: 2em;
+   padding-left: 0;
+	}
+ 
+	.timeline:before {
+	  position: absolute;
+	  left: 19.5%;
+	  top: 0;
+	  content: ' ';
+	  display: block;
+	  width: 6px;
+	  height: 90%;
+	  margin-left: -3px;
+	  background: #888888;
+	  z-index: 5;
+	}
+ 
+ 
+	.dir-l, .dir-r{ 
+		position: relative; 
+		width: 71%; 
+		padding: 1.5em 1em; 
+		background: #888888; 
+		box-shadow: 0 3px 0 #888888; 
+		margin-top: 0; 
+		margin-bottom: 1.5em;
+	}
+ 
+.timeline h1{
+	font-size: 1.5em;
+        color: white;
+	width: 90%;
+  margin-top: 0;
+/*  font-family: "Dosis";*/
+}
+ 
+.timeline p{ 
+  letter-spacing: .5px;
+  color: white;
+  font-size: 1.em;
+  line-height: 1.3em;
+  margin: .5em;
+  margin-top: 1.5em;
+/*  font-family: "Dosis";*/
+}
+ 
+.timeline img{
+	border-radius: 50%;
+}
+ 
+.timeline-icon{
+	position: absolute;
+	top: 0em;
+	width: 5em;
+	height: 5em;
+	right: 0;
+	border-radius: 50%;
+	z-index: 10;
+}
+ 
+.timeline a{
+	color: #888888;
+	margin-left: .3em;
+} 
+ 
+	.dir-l{ float: left; }
+ 
+	.dir-l:before{
+		content: "";
+	  display: inline-block;
+	  vertical-align: middle;
+	  width: 0; 
+	  height: 0; 
+	  position: absolute;
+	  right: -.95em;
+	  top: 1em;
+		border-top: 17px solid transparent;
+		border-bottom: 17px solid transparent; 
+		border-left: 15px solid #888888; 
+	}
+ 
+	.dir-r{ float: right; }
+ 
+	.dir-r:before{
+		content: "";
+	  display: inline-block;
+	  vertical-align: middle;
+	  width: 0; 
+	  height: 0; 
+	  position: absolute;
+	  left: -.9em;
+	  top: 1em;
+		border-top: 17px solid transparent;
+		border-bottom: 17px solid transparent; 
+		border-right: 15px solid #888888; 
+	}
+ 
+	.timeline-icon{
+		position: absolute;
+		top: 1em;
+		width: 80px;
+		height: 80px;
+		left: 18%;
+		margin-left: -30px;
+		box-shadow:  0 0 0 5px white, inset 0 0px 0 rgba(0, 0, 0, 0), 0 0 0 5px rgba(0, 0, 0, 0.15);
+	}
+ 
+	.timeline-blocks{
+		display: block;
+		height: auto;
+		padding: 1em 0;
+		position: relative;
+		overflow: hidden;
+	}
+ 
+	.timeline img{
+		border-radius: 50%;
+    width: 100%;
+	}
+ 
+	.timeline a{
+		color: #38666a;
+		margin-left: .3em;
+	} 
+ 
+	.timeline-blocks .date-l, .timeline-blocks .date-r{
+		position: absolute;
+		top: 1em;
+		right: 89%;
+		font-size: 1.2em;
+	}
+ 
+	.timeline-blocks .date-r{ left: 54%; right: auto;}
+ 
+	.timeline-blocks a:hover{ color: #4B878D; }

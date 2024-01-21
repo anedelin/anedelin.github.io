@@ -1,0 +1,12 @@
+@article{Nedelin:2015mio,
+    author = "Nedelin, Anton and Zabzine, Maxim",
+    title = "{q-Virasoro constraints in matrix models}",
+    eprint = "1511.03471",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    doi = "10.1007/JHEP03(2017)098",
+    journal = "JHEP",
+    volume = "03",
+    pages = "098",
+    year = "2017"
+}

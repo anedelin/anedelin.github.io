@@ -1,0 +1,13 @@
+@article{Minahan:2020ifb,
+    author = "Minahan, Joseph A. and Nedelin, Anton",
+    title = "{Five-dimensional gauge theories on spheres with negative couplings}",
+    eprint = "2007.13760",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "UUITP-23/20",
+    doi = "10.1007/JHEP02(2021)102",
+    journal = "JHEP",
+    volume = "02",
+    pages = "102",
+    year = "2021"
+}

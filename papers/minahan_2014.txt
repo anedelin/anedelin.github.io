@@ -1,0 +1,13 @@
+@article{Minahan:2014hwa,
+    author = "Minahan, Joseph A. and Nedelin, Anton",
+    title = "{Phases of planar 5-dimensional supersymmetric Chern-Simons theory}",
+    eprint = "1408.2767",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "UUITP-08-14",
+    doi = "10.1007/JHEP12(2014)049",
+    journal = "JHEP",
+    volume = "12",
+    pages = "049",
+    year = "2014"
+}

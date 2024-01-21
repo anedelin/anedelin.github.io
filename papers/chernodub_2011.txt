@@ -1,0 +1,13 @@
+@article{Chernodub:2011fr,
+    author = "Chernodub, M. N. and Nedelin, A. S.",
+    title = "{Phase diagram of chirally imbalanced QCD matter}",
+    eprint = "1102.0188",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    reportNumber = "UUITP-01-11",
+    doi = "10.1103/PhysRevD.83.105008",
+    journal = "Phys. Rev. D",
+    volume = "83",
+    pages = "105008",
+    year = "2011"
+}

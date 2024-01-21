@@ -1,0 +1,13 @@
+@article{Chernodub:2010sg,
+    author = "Chernodub, M. N. and Nedelin, A. S.",
+    title = "{Pipelike current-carrying vortices in two-component condensates}",
+    eprint = "1005.3167",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "UUITP-20-10",
+    doi = "10.1103/PhysRevD.81.125022",
+    journal = "Phys. Rev. D",
+    volume = "81",
+    pages = "125022",
+    year = "2010"
+}

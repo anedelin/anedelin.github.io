@@ -1,0 +1,13 @@
+@article{Nedelin:2017nsb,
+    author = "Nedelin, Anton and Pasquetti, Sara and Zenkevich, Yegor",
+    title = "{T[SU(N)] duality webs: mirror symmetry, spectral duality and gauge/CFT correspondences}",
+    eprint = "1712.08140",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "ITEP/TH-43/17, ITEP-TH-43-17",
+    doi = "10.1007/JHEP02(2019)176",
+    journal = "JHEP",
+    volume = "02",
+    pages = "176",
+    year = "2019"
+}

@@ -1,0 +1,239 @@
+### 1 = Uppsala University
+### 2 = University of Milano-Bicocca
+### 3 = Technion
+### 4 = Geneva University
+### 5 = King's College London 
+
+- title: "Dynamical Systems and Chaos (1FA152)"
+  role: Teaching Assistant
+  url: chaos_2011
+  notes: chaos_2011
+  university: 1 
+  year: 2011
+  image: chaos.png
+  eval: 
+  abstract: "This master level course was covering wide range of topics in the subject of dynamical systems. We
+taught student to treat physical and biological systems described by linear and nonlinear ODEs,
+explained concept of chaos and it’s relation to fractals. The course was based on the book “Nonlinear
+dynamics and Chaos” by S.Strogatz. Course consisted of 15 lectures and 15 tutorials (30 academic
+hours each). Head teacher of the course was Prof. Antti Niemi while I was giving tutorial classes. In
+my tutorial classes I was additionally actively using Wolfram Mathematica to illustrate some of the
+dynamical system properties. I have also participated in designing and grading exams for the course." 
+
+
+- title: "Dynamical Systems and Chaos (1FA152)"
+  role: Teaching Assistant
+  url: chaos_2012
+  notes: chaos_2012
+  university: 1 
+  year: 2012
+  image: chaos.png
+  eval: chaos_2012
+  abstract: "This master level course was covering wide range of topics in the subject of dynamical systems. We
+taught student to treat physical and biological systems described by linear and nonlinear ODEs,
+explained concept of chaos and it’s relation to fractals. The course was based on the book “Nonlinear
+dynamics and Chaos” by S.Strogatz. Course consisted of 15 lectures and 15 tutorials (30 academic
+hours each). Head teacher of the course was Prof. Antti Niemi while I was giving tutorial classes. In
+my tutorial classes I was additionally actively using Wolfram Mathematica to illustrate some of the
+dynamical system properties. I have also participated in designing and grading exams for the course." 
+
+- title: "Quantum Physics (1FA521)"
+  role: Teaching Assistant
+  url: qm_2011
+  notes: qm_2011
+  university: 1
+  year: 2011
+  image: qm.png
+  eval: qm_2011
+  abstract: "This is the standard undergraduate Quantum Mechanics course taught at Uppsala University. The
+course was based on notes and problems written specifically for it. I assisted Prof. Joseph Minahan who was
+teaching half of this course to the engineering physics students. I taught 10 tutorials (20 academic hours) to two groups
+of 20 students each. I also took part in grading exams for the course." 
+
+- title: "Quantum Physics (1FA521)"
+  role: Teaching Assistant
+  url: qm_2013
+  notes: qm_2013
+  university: 1
+  year: 2013
+  image: qm.png
+  eval: qm_2013
+  abstract: "This is the standard undergraduate Quantum Mechanics course taught at Uppsala University. The
+course was based on notes and problems written specifically for it. I assisted Prof. Joseph Minahan who was
+the main teacher in the course. I taught 18 tutorials (36 academic hours).
+I also took part in grading homeworks and exams for the course." 
+
+- title: "Quantum Physics (1FA521)"
+  role: Teaching Assistant
+  url: qm_2014
+  notes: qm_2014
+  university: 1
+  year: 2014
+  image: qm.png
+  eval: qm_2014
+  abstract: "This is the standard undergraduate Quantum Mechanics course taught at Uppsala University. The
+course was based on notes and problems written specifically for it. I assisted Prof. Joseph Minahan who was
+the main teacher in the course. I taught 18 tutorials (36 academic hours). 
+I have also organized 4 additional  collective problem solving sessions which are
+described in more details in my teaching statement. Finally I also took part in designing and graded homeworks
+and exams for the course." 
+
+- title: "Mathematical Methods in Physics (1FA121)"
+  role: Teaching Assistant
+  notes:
+  url: mmf_2012 
+  university: 1
+  year: 2012
+  image: mmf_2012.png
+  eval: mmf_2012
+  abstract: "The course is a standard undergraduate course covering theory of PDEs. It was based on the book
+“Applied partial differential equations ” by R.Haberman. The course consisted of 10 lectures and 10
+tutorials (20 academic hours each). The head teacher was Prof. Maxim Zabzine. I taught tutorials
+and graded exams."
+
+
+- title: "Special Relativity and Analytical Mechanic (1FA154)"
+  role: Teaching Assistant
+  notes: anmek
+  url: anmek_2012
+  university: 1
+  year: 2012
+  image: anmek.png
+  eval: 
+  abstract: "This is the master course that unites standard courses of Analytical Mechanics and Special Relativity.
+Analytical Mechanics part was based on the “Classical mechanics” by Goldstein et. al. and consisted
+of 10 lectures and 10 tutorials (20 academic hours each). The head teacher of this part was Prof. Ulf
+Lindstr¨om. Special Relativity part was based on the notes of Prof. Joseph Minahan who was the head
+teacher of this part. It also consisted of 10 lectures and 10 tutorials. I taught tutorials for both parts
+and participated in designing and grading exams."
+
+
+- title: "Special Relativity and Analytical Mechanic (1FA154)"
+  role: Teaching Assistant
+  notes: anmek
+  url: anmek_2013
+  university: 1
+  year: 2013
+  image: anmek.png
+  eval: 
+  abstract: "This is the master course that unites standard courses of Analytical Mechanics and Special Relativity.
+Analytical Mechanics part was based on the “Classical mechanics” by Goldstein et. al. and consisted
+of 10 lectures and 10 tutorials (20 academic hours each). The head teacher of this part was Prof. Ulf
+Lindstr¨om. Special Relativity part was based on the ''Introduction to Special Relativity'' by W.Rindler. 
+The head teacher of this part was Antti Niemi. It also consisted of 10 lectures and 10 tutorials. I taught tutorials for both parts
+and participated in designing and grading exams." 
+
+- title: "Special Relativity (1FA156)"
+  role: Teaching Assistant
+  notes: specrel
+  url: specrel
+  university: 1
+  year: 2014
+  image: specrel.jpg
+  eval: 
+  abstract: "This course appeared after “Special Relativity and Analytical Mechanics“ was split into two sepa-
+rate courses in 2014. This was standard Special Relativity course based on ”Introduction to Special
+Relativity“ book by W.Rindler. Course consisted of 10 lectures and 10 tutorials (20 academic hours
+each). The head teacher was Assoc.Prof. Lisa Freyhult. I taught tutorials for the course. Just as in
+”Quantum Physics“ coursein 2014 I also incorporated 2 additional collective problem solving sessions into this course." 
+
+
+- title: "Symmetry in Physics (1FA158)"
+  role: Head Teacher 
+  notes: symm
+  url: symm
+  university: 1
+  year: 2015
+  image: symm.png
+  eval: 
+  abstract: "This master level course was designed from scratch and taught by me. The course was focused on
+gauge theories and in particular on their non-perturbative aspects. It consisted of 15 lectures (30
+academic hours). For this course I wrote my own notes using “Aspects of Symmetry” by S.Coleman,
+“Classical theory of gauge fields” by V.Rubakov and Preskill’s “Lecture notes on QFT“. There was no
+exam and grades were based on several sets of homeworks. Also based on the material of the course
+I proposed to students a number of small projects for extra points. One of the students, John Paton,
+completed one of these projects ”On the large-N limit of gauge theories“." 
+
+
+
+- title: "Introduction to Conformal Field Theory"
+  role: Head Teacher 
+  notes: cft
+  url: cft
+  university: 2
+  year: 2018
+  image: cft.jpg
+  eval: 
+  abstract: "This is the standard graduate-level introductory course in CFT based on the book by Di Francesco
+et.al. The course was taught by Prof. Sara Pasquetti and me. It contained 6 lectures (12 academic
+hours). I taught first three lectures covering conformal algebra, trace anomalies and correlators in
+CFT. The exam was in the form of the student presentations on the topics chosen from the list
+proposed by me and Prof. Pasquetti."
+
+
+- title: "Quantum Mechanics for Mathematicians (13M071)"
+  role: Teaching Assistant 
+  notes: 
+  url: qm_math_2022
+  university: 4
+  year: 2022
+  image: qm_math.png
+  eval: 
+  abstract: "The course is an obligatory course for the students of Math Department at the University of Geneva.
+The head teacher is Prof. Alba Grassi. The course takes more axiomatic approach to Quantum
+Mechanics consisting of more formal approach with the heavier use of linear algebra and functional
+analysis then the standard physics QM course and has less physics content. I taught part of the
+problem solving sessions (15 hours out of total 24 hours) mostly on the finite-dimensional Hilbert spaces.
+Part of the session time was devoted to the
+review of more physical concepts of QM (black body radiation, photoeffect, paradoxes of QM etc.)
+missing in the lectures. This reviews were prepared by me from the scratch in the form of lecture
+material. Also my duty was to grade weekly homeworks for the course."
+
+
+- title: "Analysis I (11M020) and Algebra I (11M010)"
+  role: Teaching Assistant 
+  notes: 
+  url: algebra_2022
+  university: 4
+  year: 2022
+  image: algebra.png
+  eval: 
+  abstract: "This is a standard basic course in Analysis and Algebra for first-year math students. My duty in this
+course was teaching so-called practical work sessions (42 hours). In Geneva University for these basic
+courses math students are split into groups of 3-4. My goal was to give them problems to solve in front
+of me, help and guide them through the solutions and control that students understand new material
+in the course. During these classes I guided three such groups in separate times."
+
+- title: "Analysis II: Real Analysis (12M025)"
+  role: Teaching Assistant 
+  notes: 
+  url: analysis
+  university: 4
+  year: 2022
+  image: analysis.png
+  eval: 
+  abstract: "The course is taught for the second-year math students. It includes vector analysis, analysis on
+manifolds, differential forms and their use in physics and ordinary differential equations. The head teacher 
+of the course was Dr. Andrey Bytsko. My duty was 
+teaching standard problem solving sessions (28 hours), i.e. demonstrating students solutions to various
+problems in the course. Another duty was to grade weekly homeworks as well as intermediate and final exams. "
+
+
+- title: "Quantum Mechanics for Mathematicians (13M071)"
+  role: Teaching Assistant 
+  notes: 
+  url: qm_math_2023
+  university: 4
+  year: 2023
+  image: qm_math.png
+  eval: 
+  abstract: "The course is an obligatory course for the students of Math Department at the University of Geneva.
+The head teacher is Prof. Alba Grassi. The course takes more axiomatic approach to Quantum
+Mechanics consisting of more formal approach with the heavier use of linear algebra and functional
+analysis then the standard physics QM course and has less physics content. In 2023 I taught part of the
+problem solving sessions (12 hours out of total 20 hours) mostly on the infinite-dimensional Hilbert spaces.
+Part of the session time was devoted to the
+review of more physical concepts of QM (black body radiation, photoeffect, paradoxes of QM etc.)
+missing in the lectures. This reviews were prepared by me from the scratch in the form of lecture
+material. Also my duty was to grade weekly homeworks for the course."
+

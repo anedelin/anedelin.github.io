@@ -1,0 +1,25 @@
+- name: Dr. Anton Nedelin 
+  photo: headshot.jpg
+  info: Research Associate, King's College London
+  email: anton.nedelin@gmail.com
+  github: https://github.com/anedelin
+  researchgate: https://www.researchgate.net/profile/Anton-Nedelin
+  scholar: https://scholar.google.se/citations?user=nfmRXb4AAAAJ&hl=en
+  cv: cv/cv.pdf
+  inspire: https://inspirehep.net/authors/1069381
+  orcid: https://orcid.org/0000-0002-2735-6416
+  arxiv: https://arxiv.org/search/?searchtype=author&query=Nedelin%2C+A 
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 3
+  education1: "(2015) Ph.D. in Theoretical Physics, Uppsala University"
+  education2: "(2010) M.Sc. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology"
+  education3: "(2008) B.Sc. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology"
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: (2015) Ph.D. in Physics, Uppsala
+  education2short: (2010) M.Sc. in Physics, MIPT
+  education3short: (2008) B.Sc. in Physics, MIPT
+  # education4short: 
+  # education5short: 
+  # education6short: 

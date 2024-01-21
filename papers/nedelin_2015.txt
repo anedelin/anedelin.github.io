@@ -1,0 +1,13 @@
+@article{Nedelin:2015mta,
+    author = "Nedelin, Anton",
+    title = "{Phase transitions in 5D super Yang-Mills theory}",
+    eprint = "1502.07275",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "UUITP-06-15",
+    doi = "10.1007/JHEP07(2015)004",
+    journal = "JHEP",
+    volume = "07",
+    pages = "004",
+    year = "2015"
+}
