@@ -235,7 +235,7 @@ I studied properties of different topological defects as well as phase diagram o
 <div class="jumbotron">
 <div class="row">
 <div class="col-md-10 col-sm-12 col-xs-12">
- <h4 class="display-9"><a style="color:#33ffff"  href="{{ collab.url }}" target="_blank"><strong> {{ collab.name }}</strong></a></h4>
+ <h4 class="display-9"><a href="{{ collab.url }}" target="_blank"><strong> {{ collab.name }}</strong></a></h4>
 <h4 class="display-15">{{collab.institution}}</h4>
  </div>
 </div>
